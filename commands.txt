@@ -5,3 +5,7 @@ git commit -m
 git rm --cached
 git log
 git restore
+git log --oneline
+git log --oneline --preety
+git config --global user.name
+git config --global user.email
